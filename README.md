@@ -10,5 +10,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radmanplays&show_icons=true&theme=dark&locale=en&layout=compact" alt="radmanplays" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=radmanplays&show_icons=true&locale=en" alt="radmanplays" /></p>
-![img](https://github.com/radmanplays/radmanplays/assets/95340057/4f305587-8d78-4d7e-b041-d0eab8611f9a)
+<img src="https://github.com/radmanplays/radmanplays/assets/95340057/4f305587-8d78-4d7e-b041-d0eab8611f9a">
 
