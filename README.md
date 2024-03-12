@@ -1,6 +1,7 @@
 ![MyDiscord](https://discord-readme-badge.vercel.app/api?id=1085125875571372053)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radmanplays&label=Profile%20views&color=0e75b6&style=flat" alt="radmanplays" /> </p>
+womp womp! that a lot of views
 
 
 <p align = "center"><img src = "https://github-widgetbox.vercel.app/api/profile?username=radmanplays&data=followers,repositories,stars,commits"></p>
